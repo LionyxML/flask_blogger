@@ -2,7 +2,7 @@
 
 A really simple blog web application written in Python with Flask.
 
-## Install:
+## Install
 - Create a new virtualenv
 - Download blogger-1.0.0-py3-none-any.whl found on the dist/ folder
 - Run: 
@@ -22,7 +22,7 @@ $ pip install waitress
 $ waitress-serve --call 'blogger:create_app'
 ```
 
-## Tests:
+## Tests
 You may find test routines under the test/ directory.
 
 Coverage was used to produce a html report of the tests applied that might be found under htmlcov/ directory.
