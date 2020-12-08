@@ -6,11 +6,9 @@ A really simple blog web application written in Python with Flask.
 - Create a new virtualenv
 - Download blogger-1.0.0-py3-none-any.whl found on the dist/ folder
 - Run: 
-`
-$ pip install blogger-1.0.0-py3-none-any.whl
-$ export FLASK_APP=blogger
-$ flask init-db
-`
+`$ pip install blogger-1.0.0-py3-none-any.whl`
+`$ export FLASK_APP=blogger`
+`$ flask init-db`
 - For testing, just run:
 `
 $ flask run
